@@ -48,4 +48,8 @@ Good luck!
 =======
 # Testing
 Testing Git
+<<<<<<< HEAD:README.md
 >>>>>>> edbe98a3d325ad95bafd455f9856c141e64a1686
+=======
+fddf
+>>>>>>> b54507f0062ff8b05ec4cd893f97f1a6d8a821d3:README2.md
